@@ -1,2 +1,2 @@
-# IBM DATA ANALYST CAPSTONE PROJECT
-This is the project I worked on via IBM's Data Analytics Certification. I used different data wrangling methods, composed queries and put my findings on the slides. Feel free to check it out
+# IBM DATA ANALYST CERTIFICATION PROJECTS
+These are the data wrangling and cleaning projects I worked on via IBM's Data Analyst Certification Program. I worked with various datasets and performed different wrangling and cleaning methods and composed queries on Jupyter Notebook. All the Capstone project materials have been titled as such and its the only project where I put my findings on slides. Please feel free to check them out
